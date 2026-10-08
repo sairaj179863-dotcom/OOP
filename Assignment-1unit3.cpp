@@ -29,7 +29,7 @@ int main()
     student s1;
     s1.name="Sairaj_Pawar";
     s1.age=18;
-    s1.contact=7039038792;
+    s1.contact=70038792;
     s1.rollno=51;
     s1.branch="SOAI";
     s1.display();
